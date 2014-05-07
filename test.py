@@ -1,1 +1,1 @@
-import numba
+import numba.jit as jit
